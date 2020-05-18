@@ -1,0 +1,1060 @@
+
+(0-67 ARASI VERİLER) **** 1. derece yaklaştırma katsayıları ****
+a0=-27526.3459972863 | a1=2775.3310719131614 | 
+r değeri = 0.982985215495855
+
+1.GÜN | Gerçek veri: 1.0 , Yaklaşım verisi : -24751.0149253731
+2.GÜN | Gerçek veri: 5.0 , Yaklaşım verisi : -21975.6838534600
+3.GÜN | Gerçek veri: 6.0 , Yaklaşım verisi : -19200.3527815468
+4.GÜN | Gerçek veri: 18.0 , Yaklaşım verisi : -16425.0217096337
+5.GÜN | Gerçek veri: 47.0 , Yaklaşım verisi : -13649.6906377205
+6.GÜN | Gerçek veri: 98.0 , Yaklaşım verisi : -10874.3595658073
+7.GÜN | Gerçek veri: 191.0 , Yaklaşım verisi : -8099.02849389417
+8.GÜN | Gerçek veri: 359.0 , Yaklaşım verisi : -5323.69742198101
+9.GÜN | Gerçek veri: 670.0 , Yaklaşım verisi : -2548.36635006784
+10.GÜN | Gerçek veri: 947.0 , Yaklaşım verisi : 226.964721845317
+11.GÜN | Gerçek veri: 1236.0 , Yaklaşım verisi : 3002.29579375848
+12.GÜN | Gerçek veri: 1529.0 , Yaklaşım verisi : 5777.62686567163
+13.GÜN | Gerçek veri: 1872.0 , Yaklaşım verisi : 8552.95793758480
+14.GÜN | Gerçek veri: 2433.0 , Yaklaşım verisi : 11328.2890094980
+15.GÜN | Gerçek veri: 3629.0 , Yaklaşım verisi : 14103.6200814111
+16.GÜN | Gerçek veri: 5698.0 , Yaklaşım verisi : 16878.9511533243
+17.GÜN | Gerçek veri: 7402.0 , Yaklaşım verisi : 19654.2822252374
+18.GÜN | Gerçek veri: 9217.0 , Yaklaşım verisi : 22429.6132971506
+19.GÜN | Gerçek veri: 10827.0 , Yaklaşım verisi : 25204.9443690638
+20.GÜN | Gerçek veri: 13531.0 , Yaklaşım verisi : 27980.2754409769
+21.GÜN | Gerçek veri: 15679.0 , Yaklaşım verisi : 30755.6065128901
+22.GÜN | Gerçek veri: 18315.0 , Yaklaşım verisi : 33530.9375848033
+23.GÜN | Gerçek veri: 20921.0 , Yaklaşım verisi : 36306.2686567164
+24.GÜN | Gerçek veri: 23934.0 , Yaklaşım verisi : 39081.5997286296
+25.GÜN | Gerçek veri: 27069.0 , Yaklaşım verisi : 41856.9308005427
+26.GÜN | Gerçek veri: 30217.0 , Yaklaşım verisi : 44632.2618724559
+27.GÜN | Gerçek veri: 34109.0 , Yaklaşım verisi : 47407.5929443691
+28.GÜN | Gerçek veri: 38226.0 , Yaklaşım verisi : 50182.9240162822
+29.GÜN | Gerçek veri: 42282.0 , Yaklaşım verisi : 52958.2550881954
+30.GÜN | Gerçek veri: 47029.0 , Yaklaşım verisi : 55733.5861601085
+31.GÜN | Gerçek veri: 52167.0 , Yaklaşım verisi : 58508.9172320217
+32.GÜN | Gerçek veri: 56956.0 , Yaklaşım verisi : 61284.2483039349
+33.GÜN | Gerçek veri: 61049.0 , Yaklaşım verisi : 64059.5793758480
+34.GÜN | Gerçek veri: 65111.0 , Yaklaşım verisi : 66834.9104477612
+35.GÜN | Gerçek veri: 69392.0 , Yaklaşım verisi : 69610.2415196743
+36.GÜN | Gerçek veri: 74193.0 , Yaklaşım verisi : 72385.5725915875
+37.GÜN | Gerçek veri: 78546.0 , Yaklaşım verisi : 75160.9036635007
+38.GÜN | Gerçek veri: 82329.0 , Yaklaşım verisi : 77936.2347354138
+39.GÜN | Gerçek veri: 86306.0 , Yaklaşım verisi : 80711.5658073270
+40.GÜN | Gerçek veri: 90980.0 , Yaklaşım verisi : 83486.8968792402
+41.GÜN | Gerçek veri: 95591.0 , Yaklaşım verisi : 86262.2279511533
+42.GÜN | Gerçek veri: 98674.0 , Yaklaşım verisi : 89037.5590230665
+43.GÜN | Gerçek veri: 101790.0 , Yaklaşım verisi : 91812.8900949796
+44.GÜN | Gerçek veri: 104912.0 , Yaklaşım verisi : 94588.2211668928
+45.GÜN | Gerçek veri: 107773.0 , Yaklaşım verisi : 97363.5522388060
+46.GÜN | Gerçek veri: 110130.0 , Yaklaşım verisi : 100138.883310719
+47.GÜN | Gerçek veri: 112261.0 , Yaklaşım verisi : 102914.214382632
+48.GÜN | Gerçek veri: 114653.0 , Yaklaşım verisi : 105689.545454545
+49.GÜN | Gerçek veri: 117589.0 , Yaklaşım verisi : 108464.876526459
+50.GÜN | Gerçek veri: 120204.0 , Yaklaşım verisi : 111240.207598372
+51.GÜN | Gerçek veri: 122392.0 , Yaklaşım verisi : 114015.538670285
+52.GÜN | Gerçek veri: 124375.0 , Yaklaşım verisi : 116790.869742198
+53.GÜN | Gerçek veri: 126045.0 , Yaklaşım verisi : 119566.200814111
+54.GÜN | Gerçek veri: 127659.0 , Yaklaşım verisi : 122341.531886024
+55.GÜN | Gerçek veri: 129491.0 , Yaklaşım verisi : 125116.862957938
+56.GÜN | Gerçek veri: 131744.0 , Yaklaşım verisi : 127892.194029851
+57.GÜN | Gerçek veri: 133721.0 , Yaklaşım verisi : 130667.525101764
+58.GÜN | Gerçek veri: 135569.0 , Yaklaşım verisi : 133442.856173677
+59.GÜN | Gerçek veri: 137115.0 , Yaklaşım verisi : 136218.187245590
+60.GÜN | Gerçek veri: 138657.0 , Yaklaşım verisi : 138993.518317503
+61.GÜN | Gerçek veri: 139771.0 , Yaklaşım verisi : 141768.849389417
+62.GÜN | Gerçek veri: 141475.0 , Yaklaşım verisi : 144544.180461330
+63.GÜN | Gerçek veri: 143114.0 , Yaklaşım verisi : 147319.511533243
+64.GÜN | Gerçek veri: 144749.0 , Yaklaşım verisi : 150094.842605156
+65.GÜN | Gerçek veri: 146457.0 , Yaklaşım verisi : 152870.173677069
+66.GÜN | Gerçek veri: 148067.0 , Yaklaşım verisi : 155645.504748982
+67.GÜN | Gerçek veri: 149435.0 , Yaklaşım verisi : 158420.835820896
+
+(0-67 ARASI VERİLER) **** 2. derece yaklaştırma katsayıları ****
+a0=-20463.92746059906 | a1=2161.2077208968817 | a2=9.031225750239402 | 
+r değeri = 0.984540137550693
+
+1.GÜN | Gerçek veri: 1.0 , Yaklaşım verisi : -18293.6885139519
+2.GÜN | Gerçek veri: 5.0 , Yaklaşım verisi : -16105.3871158043
+3.GÜN | Gerçek veri: 6.0 , Yaklaşım verisi : -13899.0232661563
+4.GÜN | Gerçek veri: 18.0 , Yaklaşım verisi : -11674.5969650077
+5.GÜN | Gerçek veri: 47.0 , Yaklaşım verisi : -9432.10821235867
+6.GÜN | Gerçek veri: 98.0 , Yaklaşım verisi : -7171.55700820915
+7.GÜN | Gerçek veri: 191.0 , Yaklaşım verisi : -4892.94335255916
+8.GÜN | Gerçek veri: 359.0 , Yaklaşım verisi : -2596.26724540869
+9.GÜN | Gerçek veri: 670.0 , Yaklaşım verisi : -281.528686757736
+10.GÜN | Gerçek veri: 947.0 , Yaklaşım verisi : 2051.27232339370
+11.GÜN | Gerçek veri: 1236.0 , Yaklaşım verisi : 4402.13578504560
+12.GÜN | Gerçek veri: 1529.0 , Yaklaşım verisi : 6771.06169819799
+13.GÜN | Gerçek veri: 1872.0 , Yaklaşım verisi : 9158.05006285086
+14.GÜN | Gerçek veri: 2433.0 , Yaklaşım verisi : 11563.1008790042
+15.GÜN | Gerçek veri: 3629.0 , Yaklaşım verisi : 13986.2141466580
+16.GÜN | Gerçek veri: 5698.0 , Yaklaşım verisi : 16427.3898658123
+17.GÜN | Gerçek veri: 7402.0 , Yaklaşım verisi : 18886.6280364671
+18.GÜN | Gerçek veri: 9217.0 , Yaklaşım verisi : 21363.9286586224
+19.GÜN | Gerçek veri: 10827.0 , Yaklaşım verisi : 23859.2917322781
+20.GÜN | Gerçek veri: 13531.0 , Yaklaşım verisi : 26372.7172574343
+21.GÜN | Gerçek veri: 15679.0 , Yaklaşım verisi : 28904.2052340910
+22.GÜN | Gerçek veri: 18315.0 , Yaklaşım verisi : 31453.7556622482
+23.GÜN | Gerçek veri: 20921.0 , Yaklaşım verisi : 34021.3685419059
+24.GÜN | Gerçek veri: 23934.0 , Yaklaşım verisi : 36607.0438730640
+25.GÜN | Gerçek veri: 27069.0 , Yaklaşım verisi : 39210.7816557226
+26.GÜN | Gerçek veri: 30217.0 , Yaklaşım verisi : 41832.5818898817
+27.GÜN | Gerçek veri: 34109.0 , Yaklaşım verisi : 44472.4445755413
+28.GÜN | Gerçek veri: 38226.0 , Yaklaşım verisi : 47130.3697127013
+29.GÜN | Gerçek veri: 42282.0 , Yaklaşım verisi : 49806.3573013619
+30.GÜN | Gerçek veri: 47029.0 , Yaklaşım verisi : 52500.4073415229
+31.GÜN | Gerçek veri: 52167.0 , Yaklaşım verisi : 55212.5198331843
+32.GÜN | Gerçek veri: 56956.0 , Yaklaşım verisi : 57942.6947763463
+33.GÜN | Gerçek veri: 61049.0 , Yaklaşım verisi : 60690.9321710087
+34.GÜN | Gerçek veri: 65111.0 , Yaklaşım verisi : 63457.2320171717
+35.GÜN | Gerçek veri: 69392.0 , Yaklaşım verisi : 66241.5943148351
+36.GÜN | Gerçek veri: 74193.0 , Yaklaşım verisi : 69044.0190639989
+37.GÜN | Gerçek veri: 78546.0 , Yaklaşım verisi : 71864.5062646633
+38.GÜN | Gerçek veri: 82329.0 , Yaklaşım verisi : 74703.0559168281
+39.GÜN | Gerçek veri: 86306.0 , Yaklaşım verisi : 77559.6680204935
+40.GÜN | Gerçek veri: 90980.0 , Yaklaşım verisi : 80434.3425756592
+41.GÜN | Gerçek veri: 95591.0 , Yaklaşım verisi : 83327.0795823255
+42.GÜN | Gerçek veri: 98674.0 , Yaklaşım verisi : 86237.8790404923
+43.GÜN | Gerçek veri: 101790.0 , Yaklaşım verisi : 89166.7409501595
+44.GÜN | Gerçek veri: 104912.0 , Yaklaşım verisi : 92113.6653113272
+45.GÜN | Gerçek veri: 107773.0 , Yaklaşım verisi : 95078.6521239954
+46.GÜN | Gerçek veri: 110130.0 , Yaklaşım verisi : 98061.7013881641
+47.GÜN | Gerçek veri: 112261.0 , Yaklaşım verisi : 101062.813103833
+48.GÜN | Gerçek veri: 114653.0 , Yaklaşım verisi : 104081.987271003
+49.GÜN | Gerçek veri: 117589.0 , Yaklaşım verisi : 107119.223889673
+50.GÜN | Gerçek veri: 120204.0 , Yaklaşım verisi : 110174.522959844
+51.GÜN | Gerçek veri: 122392.0 , Yaklaşım verisi : 113247.884481515
+52.GÜN | Gerçek veri: 124375.0 , Yaklaşım verisi : 116339.308454686
+53.GÜN | Gerçek veri: 126045.0 , Yaklaşım verisi : 119448.794879358
+54.GÜN | Gerçek veri: 127659.0 , Yaklaşım verisi : 122576.343755531
+55.GÜN | Gerçek veri: 129491.0 , Yaklaşım verisi : 125721.955083204
+56.GÜN | Gerçek veri: 131744.0 , Yaklaşım verisi : 128885.628862377
+57.GÜN | Gerçek veri: 133721.0 , Yaklaşım verisi : 132067.365093051
+58.GÜN | Gerçek veri: 135569.0 , Yaklaşım verisi : 135267.163775225
+59.GÜN | Gerçek veri: 137115.0 , Yaklaşım verisi : 138485.024908900
+60.GÜN | Gerçek veri: 138657.0 , Yaklaşım verisi : 141720.948494076
+61.GÜN | Gerçek veri: 139771.0 , Yaklaşım verisi : 144974.934530752
+62.GÜN | Gerçek veri: 141475.0 , Yaklaşım verisi : 148246.983018928
+63.GÜN | Gerçek veri: 143114.0 , Yaklaşım verisi : 151537.093958605
+64.GÜN | Gerçek veri: 144749.0 , Yaklaşım verisi : 154845.267349782
+65.GÜN | Gerçek veri: 146457.0 , Yaklaşım verisi : 158171.503192460
+66.GÜN | Gerçek veri: 148067.0 , Yaklaşım verisi : 161515.801486638
+67.GÜN | Gerçek veri: 149435.0 , Yaklaşım verisi : 164878.162232317
+
+(0-67 ARASI VERİLER) **** 3. derece yaklaştırma katsayıları ****
+a0=6002.220279718795 | a1=-2343.2913007928896 | a2=173.41723655967016 | a3=-1.6116275569552077 | 
+r değeri = 0.998687803246306
+
+1.GÜN | Gerçek veri: 1.0 , Yaklaşım verisi : 3830.73458792862
+2.GÜN | Gerçek veri: 5.0 , Yaklaşım verisi : 1996.41360391605
+3.GÜN | Gerçek veri: 6.0 , Yaklaşım verisi : 489.587562339366
+4.GÜN | Gerçek veri: 18.0 , Yaklaşım verisi : -699.413302143173
+5.GÜN | Gerçek veri: 47.0 , Yaklaşım verisi : -1580.25875487330
+6.GÜN | Gerçek veri: 98.0 , Yaklaşım verisi : -2162.61856119274
+7.GÜN | Gerçek veri: 191.0 , Yaklaşım verisi : -2456.16248644323
+8.GÜN | Gerçek veri: 359.0 , Yaklaşım verisi : -2470.56029596650
+9.GÜN | Gerçek veri: 670.0 , Yaklaşım verisi : -2215.48175510428
+10.GÜN | Gerçek veri: 947.0 , Yaklaşım verisi : -1700.59662919829
+11.GÜN | Gerçek veri: 1236.0 , Yaklaşım verisi : -935.574683590286
+12.GÜN | Gerçek veri: 1529.0 , Yaklaşım verisi : 69.9143163780209
+13.GÜN | Gerçek veri: 1872.0 , Yaklaşım verisi : 1306.20060536489
+14.GÜN | Gerçek veri: 2433.0 , Yaklaşım verisi : 2763.61441802861
+15.GÜN | Gerçek veri: 3629.0 , Yaklaşım verisi : 4432.48598902741
+16.GÜN | Gerçek veri: 5698.0 , Yaklaşım verisi : 6303.14555301959
+17.GÜN | Gerçek veri: 7402.0 , Yaklaşım verisi : 8365.92334466342
+18.GÜN | Gerçek veri: 9217.0 , Yaklaşım verisi : 10611.1495986171
+19.GÜN | Gerçek veri: 10827.0 , Yaklaşım verisi : 13029.1545495390
+20.GÜN | Gerçek veri: 13531.0 , Yaklaşım verisi : 15610.2684320874
+21.GÜN | Gerçek veri: 15679.0 , Yaklaşım verisi : 18344.8214809205
+22.GÜN | Gerçek veri: 18315.0 , Yaklaşım verisi : 21223.1439306965
+23.GÜN | Gerçek veri: 20921.0 , Yaklaşım verisi : 24235.5660160738
+24.GÜN | Gerçek veri: 23934.0 , Yaklaşım verisi : 27372.4179717106
+25.GÜN | Gerçek veri: 27069.0 , Yaklaşım verisi : 30624.0300322653
+26.GÜN | Gerçek veri: 30217.0 , Yaklaşım verisi : 33980.7324323960
+27.GÜN | Gerçek veri: 34109.0 , Yaklaşım verisi : 37432.8554067610
+28.GÜN | Gerçek veri: 38226.0 , Yaklaşım verisi : 40970.7291900186
+29.GÜN | Gerçek veri: 42282.0 , Yaklaşım verisi : 44584.6840168270
+30.GÜN | Gerçek veri: 47029.0 , Yaklaşım verisi : 48265.0501218446
+31.GÜN | Gerçek veri: 52167.0 , Yaklaşım verisi : 52002.1577397297
+32.GÜN | Gerçek veri: 56956.0 , Yaklaşım verisi : 55786.3371051403
+33.GÜN | Gerçek veri: 61049.0 , Yaklaşım verisi : 59607.9184527350
+34.GÜN | Gerçek veri: 65111.0 , Yaklaşım verisi : 63457.2320171718
+35.GÜN | Gerçek veri: 69392.0 , Yaklaşım verisi : 67324.6080331091
+36.GÜN | Gerçek veri: 74193.0 , Yaklaşım verisi : 71200.3767352052
+37.GÜN | Gerçek veri: 78546.0 , Yaklaşım verisi : 75074.8683581182
+38.GÜN | Gerçek veri: 82329.0 , Yaklaşım verisi : 78938.4131365065
+39.GÜN | Gerçek veri: 86306.0 , Yaklaşım verisi : 82781.3413050285
+40.GÜN | Gerçek veri: 90980.0 , Yaklaşım verisi : 86593.9830983422
+41.GÜN | Gerçek veri: 95591.0 , Yaklaşım verisi : 90366.6687511060
+42.GÜN | Gerçek veri: 98674.0 , Yaklaşım verisi : 94089.7284979782
+43.GÜN | Gerçek veri: 101790.0 , Yaklaşım verisi : 97753.4925736170
+44.GÜN | Gerçek veri: 104912.0 , Yaklaşım verisi : 101348.291212681
+45.GÜN | Gerçek veri: 107773.0 , Yaklaşım verisi : 104864.454649828
+46.GÜN | Gerçek veri: 110130.0 , Yaklaşım verisi : 108292.313119716
+47.GÜN | Gerçek veri: 112261.0 , Yaklaşım verisi : 111622.196857004
+48.GÜN | Gerçek veri: 114653.0 , Yaklaşım verisi : 114844.436096350
+49.GÜN | Gerçek veri: 117589.0 , Yaklaşım verisi : 117949.361072412
+50.GÜN | Gerçek veri: 120204.0 , Yaklaşım verisi : 120927.302019849
+51.GÜN | Gerçek veri: 122392.0 , Yaklaşım verisi : 123768.589173318
+52.GÜN | Gerçek veri: 124375.0 , Yaklaşım verisi : 126463.552767479
+53.GÜN | Gerçek veri: 126045.0 , Yaklaşım verisi : 129002.523036989
+54.GÜN | Gerçek veri: 127659.0 , Yaklaşım verisi : 131375.830216506
+55.GÜN | Gerçek veri: 129491.0 , Yaklaşım verisi : 133573.804540689
+56.GÜN | Gerçek veri: 131744.0 , Yaklaşım verisi : 135586.776244197
+57.GÜN | Gerçek veri: 133721.0 , Yaklaşım verisi : 137405.075561687
+58.GÜN | Gerçek veri: 135569.0 , Yaklaşım verisi : 139019.032727817
+59.GÜN | Gerçek veri: 137115.0 , Yaklaşım verisi : 140418.977977246
+60.GÜN | Gerçek veri: 138657.0 , Yaklaşım verisi : 141595.241544633
+61.GÜN | Gerçek veri: 139771.0 , Yaklaşım verisi : 142538.153664635
+62.GÜN | Gerçek veri: 141475.0 , Yaklaşım verisi : 143238.044571911
+63.GÜN | Gerçek veri: 143114.0 , Yaklaşım verisi : 143685.244501119
+64.GÜN | Gerçek veri: 144749.0 , Yaklaşım verisi : 143870.083686917
+65.GÜN | Gerçek veri: 146457.0 , Yaklaşım verisi : 143782.892363964
+66.GÜN | Gerçek veri: 148067.0 , Yaklaşım verisi : 143414.000766917
+67.GÜN | Gerçek veri: 149435.0 , Yaklaşım verisi : 142753.739130435
+
+(0-67 ARASI VERİLER) **** 4. derece yaklaştırma katsayıları ****
+a0=9422.034834581364 | a1=-3286.375494224338 | a2=234.75446013864996 | a3=-3.0077551564099054 | a4=0.010265644113637822 | 
+r değeri = 0.998849657406928
+
+1.GÜN | Gerçek veri: 1.0 , Yaklaşım verisi : 6367.41631098338
+2.GÜN | Gerçek veri: 5.0 , Yaklaşım verisi : 3764.40389574182
+3.GÜN | Gerçek veri: 6.0 , Yaklaşım verisi : 1595.32062110634
+4.GÜN | Gerçek veri: 18.0 , Yaklaşım verisi : -157.264105214732
+5.GÜN | Gerçek veri: 47.0 , Yaklaşım verisi : -1510.53450005429
+6.GÜN | Gerçek veri: 98.0 , Yaklaşım verisi : -2481.42840478653
+7.GÜN | Gerçek veri: 191.0 , Yaklaşım verisi : -3086.63728532691
+8.GÜN | Gerçek veri: 359.0 , Yaklaşım verisi : -3342.60623213216
+9.GÜN | Gerçek veri: 670.0 , Yaklaşım verisi : -3265.53396020028
+10.GÜN | Gerçek veri: 947.0 , Yaklaşım verisi : -2871.37280907055
+11.GÜN | Gerçek veri: 1236.0 , Yaklaşım verisi : -2175.82874282352
+12.GÜN | Gerçek veri: 1529.0 , Yaklaşım verisi : -1194.36135008102
+13.GÜN | Gerçek veri: 1872.0 , Yaklaşım verisi : 57.8161559938526
+14.GÜN | Gerçek veri: 2433.0 , Yaklaşım verisi : 1565.73693769675
+15.GÜN | Gerçek veri: 3629.0 , Yaklaşım verisi : 3314.68053278202
+16.GÜN | Gerçek veri: 5698.0 , Yaklaşım verisi : 5290.17285446274
+17.GÜN | Gerçek veri: 7402.0 , Yaklaşım verisi : 7477.98619141073
+18.GÜN | Gerçek veri: 9217.0 , Yaklaşım verisi : 9864.13920775655
+19.GÜN | Gerçek veri: 10827.0 , Yaklaşım verisi : 12434.8969430895
+20.GÜN | Gerçek veri: 13531.0 , Yaklaşım verisi : 15176.7708124574
+21.GÜN | Gerçek veri: 15679.0 , Yaklaşım verisi : 18076.5186063672
+22.GÜN | Gerçek veri: 18315.0 , Yaklaşım verisi : 21121.1444907842
+23.GÜN | Gerçek veri: 20921.0 , Yaklaşım verisi : 24297.8990071326
+24.GÜN | Gerçek veri: 23934.0 , Yaklaşım verisi : 27594.2790722954
+25.GÜN | Gerçek veri: 27069.0 , Yaklaşım verisi : 30998.0279786141
+26.GÜN | Gerçek veri: 30217.0 , Yaklaşım verisi : 34497.1353938892
+27.GÜN | Gerçek veri: 34109.0 , Yaklaşım verisi : 38079.8373613797
+28.GÜN | Gerçek veri: 38226.0 , Yaklaşım verisi : 41734.6162998034
+29.GÜN | Gerçek veri: 42282.0 , Yaklaşım verisi : 45450.2010033369
+30.GÜN | Gerçek veri: 47029.0 , Yaklaşım verisi : 49215.5666416154
+31.GÜN | Gerçek veri: 52167.0 , Yaklaşım verisi : 53019.9347597329
+32.GÜN | Gerçek veri: 56956.0 , Yaklaşım verisi : 56852.7732782422
+33.GÜN | Gerçek veri: 61049.0 , Yaklaşım verisi : 60703.7964931547
+34.GÜN | Gerçek veri: 65111.0 , Yaklaşım verisi : 64562.9650759406
+35.GÜN | Gerçek veri: 69392.0 , Yaklaşım verisi : 68420.4860735288
+36.GÜN | Gerçek veri: 74193.0 , Yaklaşım verisi : 72266.8129083068
+37.GÜN | Gerçek veri: 78546.0 , Yaklaşım verisi : 76092.6453781212
+38.GÜN | Gerçek veri: 82329.0 , Yaklaşım verisi : 79888.9296562771
+39.GÜN | Gerçek veri: 86306.0 , Yaklaşım verisi : 83646.8582915380
+40.GÜN | Gerçek veri: 90980.0 , Yaklaşım verisi : 87357.8702081266
+41.GÜN | Gerçek veri: 95591.0 , Yaklaşım verisi : 91013.6507057244
+42.GÜN | Gerçek veri: 98674.0 , Yaklaşım verisi : 94606.1314594710
+43.GÜN | Gerçek veri: 101790.0 , Yaklaşım verisi : 98127.4905199654
+44.GÜN | Gerçek veri: 104912.0 , Yaklaşım verisi : 101570.152313265
+45.GÜN | Gerçek veri: 107773.0 , Yaklaşım verisi : 104926.787640886
+46.GÜN | Gerçek veri: 110130.0 , Yaklaşım verisi : 108190.313679803
+47.GÜN | Gerçek veri: 112261.0 , Yaklaşım verisi : 111353.893982450
+48.GÜN | Gerçek veri: 114653.0 , Yaklaşım verisi : 114410.938476719
+49.GÜN | Gerçek veri: 117589.0 , Yaklaşım verisi : 117355.103465962
+50.GÜN | Gerçek veri: 120204.0 , Yaklaşım verisi : 120180.291628988
+51.GÜN | Gerçek veri: 122392.0 , Yaklaşım verisi : 122880.652020065
+52.GÜN | Gerçek veri: 124375.0 , Yaklaşım verisi : 125450.580068921
+53.GÜN | Gerçek veri: 126045.0 , Yaklaşım verisi : 127884.717580743
+54.GÜN | Gerçek veri: 127659.0 , Yaklaşım verisi : 130177.952736174
+55.GÜN | Gerçek veri: 129491.0 , Yaklaşım verisi : 132325.420091318
+56.GÜN | Gerçek veri: 131744.0 , Yaklaşım verisi : 134322.500577737
+57.GÜN | Gerçek veri: 133721.0 , Yaklaşım verisi : 136164.821502453
+58.GÜN | Gerçek veri: 135569.0 , Yaklaşım verisi : 137848.256547945
+59.GÜN | Gerçek veri: 137115.0 , Yaklaşım verisi : 139368.925772150
+60.GÜN | Gerçek veri: 138657.0 , Yaklaşım verisi : 140723.195608467
+61.GÜN | Gerçek veri: 139771.0 , Yaklaşım verisi : 141907.678865752
+62.GÜN | Gerçek veri: 141475.0 , Yaklaşım verisi : 142919.234728318
+63.GÜN | Gerçek veri: 143114.0 , Yaklaşım verisi : 143754.968755938
+64.GÜN | Gerçek veri: 144749.0 , Yaklaşım verisi : 144412.232883846
+65.GÜN | Gerçek veri: 146457.0 , Yaklaşım verisi : 144888.625422731
+66.GÜN | Gerçek veri: 148067.0 , Yaklaşım verisi : 145181.991058744
+67.GÜN | Gerçek veri: 149435.0 , Yaklaşım verisi : 145290.420853491
+
+(0-67 ARASI VERİLER) **** 5. derece yaklaştırma katsayıları ****
+a0=-750.6355628392447 | a1=779.3458692269699 | a2=-171.45673530398145 | a3=12.741421618543205 | a4=-0.2492942251772015 | a5=0.0015268227605312163 | 
+r değeri = 0.999858081834712
+
+1.GÜN | Gerçek veri: 1.0 , Yaklaşım verisi : -130.252774700130
+2.GÜN | Gerçek veri: 5.0 , Yaklaşım verisi : 220.220758072617
+3.GÜN | Gerçek veri: 6.0 , Yaklaşım verisi : 368.487996497954
+4.GÜN | Gerçek veri: 18.0 , Yaklaşım verisi : 376.635277653117
+5.GÜN | Gerçek veri: 47.0 , Yaklaşım verisi : 301.315533404878
+6.GÜN | Gerçek veri: 98.0 , Yaklaşım verisi : 193.931509140813
+7.GÜN | Gerçek veri: 191.0 , Yaklaşım verisi : 100.818982500559
+8.GÜN | Gerçek veri: 359.0 , Yaklaşım verisi : 63.4299821070908
+9.GÜN | Gerçek veri: 670.0 , Yaklaşım verisi : 118.516006297972
+10.GÜN | Gerçek veri: 947.0 , Yaklaşım verisi : 298.311241856620
+11.GÜN | Gerçek veri: 1236.0 , Yaklaşım verisi : 630.715782743580
+12.GÜN | Gerçek veri: 1529.0 , Yaklaşım verisi : 1139.47884882778
+13.GÜN | Gerçek veri: 1872.0 , Yaklaşım verisi : 1844.38200461778
+14.GÜN | Gerçek veri: 2433.0 , Yaklaşım verisi : 2761.42237799309
+15.GÜN | Gerçek veri: 3629.0 , Yaklaşım verisi : 3902.99587893536
+16.GÜN | Gerçek veri: 5698.0 , Yaklaşım verisi : 5278.08041825970
+17.GÜN | Gerçek veri: 7402.0 , Yaklaşım verisi : 6892.41912634589
+18.GÜN | Gerçek veri: 9217.0 , Yaklaşım verisi : 8748.70357186974
+19.GÜN | Gerçek veri: 10827.0 , Yaklaşım verisi : 10846.7569805342
+20.GÜN | Gerçek veri: 13531.0 , Yaklaşım verisi : 13183.7174538009
+21.GÜN | Gerçek veri: 15679.0 , Yaklaşım verisi : 15754.2211876209
+22.GÜN | Gerçek veri: 18315.0 , Yaklaşım verisi : 18550.5856911666
+23.GÜN | Gerçek veri: 20921.0 , Yaklaşım verisi : 21562.9930055626
+24.GÜN | Gerçek veri: 23934.0 , Yaklaşım verisi : 24779.6729226169
+25.GÜN | Gerçek veri: 27069.0 , Yaklaşım verisi : 28187.0862035525
+26.GÜN | Gerçek veri: 30217.0 , Yaklaşım verisi : 31770.1077977384
+27.GÜN | Gerçek veri: 34109.0 , Yaklaşım verisi : 35512.2100614209
+28.GÜN | Gerçek veri: 38226.0 , Yaklaşım verisi : 39395.6459764550
+29.GÜN | Gerçek veri: 42282.0 , Yaklaşım verisi : 43401.6323690355
+30.GÜN | Gerçek veri: 47029.0 , Yaklaşım verisi : 47510.5331284284
+31.GÜN | Gerçek veri: 52167.0 , Yaklaşım verisi : 51702.0424257020
+32.GÜN | Gerçek veri: 56956.0 , Yaklaşım verisi : 55955.3679324583
+33.GÜN | Gerçek veri: 61049.0 , Yaklaşım verisi : 60249.4140395641
+34.GÜN | Gerçek veri: 65111.0 , Yaklaşım verisi : 64562.9650758828
+35.GÜN | Gerçek veri: 69392.0 , Yaklaşım verisi : 68874.8685270047
+36.GÜN | Gerçek veri: 74193.0 , Yaklaşım verisi : 73164.2182539795
+37.GÜN | Gerçek veri: 78546.0 , Yaklaşım verisi : 77410.5377120459
+38.GÜN | Gerçek veri: 82329.0 , Yaklaşım verisi : 81593.9631693645
+39.GÜN | Gerçek veri: 86306.0 , Yaklaşım verisi : 85695.4269257487
+40.GÜN | Gerçek veri: 90980.0 , Yaklaşım verisi : 89696.8405313951
+41.GÜN | Gerçek veri: 95591.0 , Yaklaşım verisi : 93581.2780056153
+42.GÜN | Gerçek veri: 98674.0 , Yaklaşım verisi : 97333.1590555677
+43.GÜN | Gerçek veri: 101790.0 , Yaklaşım verisi : 100938.432294988
+44.GÜN | Gerçek veri: 104912.0 , Yaklaşım verisi : 104384.758462920
+45.GÜN | Gerçek veri: 107773.0 , Yaklaşım verisi : 107661.693642449
+46.GÜN | Gerçek veri: 110130.0 , Yaklaşım verisi : 110760.872479431
+47.GÜN | Gerçek veri: 112261.0 , Yaklaşım verisi : 113676.191401224
+48.GÜN | Gerçek veri: 114653.0 , Yaklaşım verisi : 116403.991835421
+49.GÜN | Gerçek veri: 117589.0 , Yaklaşım verisi : 118943.243428579
+50.GÜN | Gerçek veri: 120204.0 , Yaklaşım verisi : 121295.727264952
+51.GÜN | Gerçek veri: 122392.0 , Yaklaşım verisi : 123466.219085222
+52.GÜN | Gerçek veri: 124375.0 , Yaklaşım verisi : 125462.672505230
+53.GÜN | Gerçek veri: 126045.0 , Yaklaşım verisi : 127296.402234705
+54.GÜN | Gerçek veri: 127659.0 , Yaklaşım verisi : 128982.267296002
+55.GÜN | Gerçek veri: 129491.0 , Yaklaşım verisi : 130538.854242824
+56.GÜN | Gerçek veri: 131744.0 , Yaklaşım verisi : 131988.660378961
+57.GÜN | Gerçek veri: 133721.0 , Yaklaşım verisi : 133358.276977016
+58.GÜN | Gerçek veri: 135569.0 , Yaklaşım verisi : 134678.572497140
+59.GÜN | Gerçek veri: 137115.0 , Yaklaşım verisi : 135984.875805762
+60.GÜN | Gerçek veri: 138657.0 , Yaklaşım verisi : 137317.159394321
+61.GÜN | Gerçek veri: 139771.0 , Yaklaşım verisi : 138720.222597991
+62.GÜN | Gerçek veri: 141475.0 , Yaklaşım verisi : 140243.874814425
+63.GÜN | Gerçek veri: 143114.0 , Yaklaşım verisi : 141943.118722474
+64.GÜN | Gerçek veri: 144749.0 , Yaklaşım verisi : 143878.333500924
+65.GÜN | Gerçek veri: 146457.0 , Yaklaşım verisi : 146115.458047228
+66.GÜN | Gerçek veri: 148067.0 , Yaklaşım verisi : 148726.174196232
+67.GÜN | Gerçek veri: 149435.0 , Yaklaşım verisi : 151788.089938915
+
+(0-67 ARASI VERİLER) **** 6. derece yaklaştırma katsayıları ****
+a0=-3214.172853921217 | a1=2103.7223333163843 | a2=-357.63662288974655 | a3=23.484140726390304 | a4=-0.5429784558124486 | a5=0.005315534212857712 | a6=-1.8572114963072293e-05 | 
+r değeri = 0.999899876404772
+
+1.GÜN | Gerçek veri: 1.0 , Yaklaşım verisi : -1445.14068426190
+2.GÜN | Gerçek veri: 5.0 , Yaklaşım verisi : -257.920299849858
+3.GÜN | Gerçek veri: 6.0 , Yaklaşım verisi : 469.633220453863
+4.GÜN | Gerçek veri: 18.0 , Yaklaşım verisi : 847.880070560445
+5.GÜN | Gerçek veri: 47.0 , Yaklaşım verisi : 976.000151451928
+6.GÜN | Gerçek veri: 98.0 , Yaklaşım verisi : 942.584133557049
+7.GÜN | Gerçek veri: 191.0 , Yaklaşım verisi : 826.211147204289
+8.GÜN | Gerçek veri: 359.0 , Yaklaşım verisi : 696.013101152166
+9.GÜN | Gerçek veri: 670.0 , Yaklaşım verisi : 612.225629196775
+10.GÜN | Gerçek veri: 947.0 , Yaklaşım verisi : 626.725664856494
+11.GÜN | Gerçek veri: 1236.0 , Yaklaşım verisi : 783.555644133965
+12.GÜN | Gerçek veri: 1529.0 , Yaklaşım verisi : 1119.43433635533
+13.GÜN | Gerçek veri: 1872.0 , Yaklaşım verisi : 1664.25430308654
+14.GÜN | Gerçek veri: 2433.0 , Yaklaşım verisi : 2441.56598512721
+15.GÜN | Gerçek veri: 3629.0 , Yaklaşım verisi : 3469.04841758122
+16.GÜN | Gerçek veri: 5698.0 , Yaklaşım verisi : 4758.96657300506
+17.GÜN | Gerçek veri: 7402.0 , Yaklaşım verisi : 6318.61533263302
+18.GÜN | Gerçek veri: 9217.0 , Yaklaşım verisi : 8150.75008567981
+19.GÜN | Gerçek veri: 10827.0 , Yaklaşım verisi : 10254.0039567203
+20.GÜN | Gerçek veri: 13531.0 , Yaklaşım verisi : 12623.2916611466
+21.GÜN | Gerçek veri: 15679.0 , Yaklaşım verisi : 15250.1999887020
+22.GÜN | Gerçek veri: 18315.0 , Yaklaşım verisi : 18123.3649150931
+23.GÜN | Gerçek veri: 20921.0 , Yaklaşım verisi : 21228.8353416777
+24.GÜN | Gerçek veri: 23934.0 , Yaklaşım verisi : 24550.4234632313
+25.GÜN | Gerçek veri: 27069.0 , Yaklaşım verisi : 28070.0417637899
+26.GÜN | Gerçek veri: 30217.0 , Yaklaşım verisi : 31768.0266405704
+27.GÜN | Gerçek veri: 34109.0 , Yaklaşım verisi : 35623.4486559686
+28.GÜN | Gerçek veri: 38226.0 , Yaklaşım verisi : 39614.4094176335
+29.GÜN | Gerçek veri: 42282.0 , Yaklaşım verisi : 43718.3250866196
+30.GÜN | Gerçek veri: 47029.0 , Yaklaşım verisi : 47912.1965136158
+31.GÜN | Gerçek veri: 52167.0 , Yaklaşım verisi : 52172.8660032532
+32.GÜN | Gerçek veri: 56956.0 , Yaklaşım verisi : 56477.2607064866
+33.GÜN | Gerçek veri: 61049.0 , Yaklaşım verisi : 60802.6226410576
+34.GÜN | Gerçek veri: 65111.0 , Yaklaşım verisi : 65126.7253400317
+35.GÜN | Gerçek veri: 69392.0 , Yaklaşım verisi : 69428.0771284134
+36.GÜN | Gerçek veri: 74193.0 , Yaklaşım verisi : 73686.1110278403
+37.GÜN | Gerçek veri: 78546.0 , Yaklaşım verisi : 77881.3612893508
+38.GÜN | Gerçek veri: 82329.0 , Yaklaşım verisi : 81995.6265542335
+39.GÜN | Gerçek veri: 86306.0 , Yaklaşım verisi : 86012.1196429499
+40.GÜN | Gerçek veri: 90980.0 , Yaklaşım verisi : 89915.6039721362
+41.GÜN | Gerçek veri: 95591.0 , Yaklaşım verisi : 93692.5165996826
+42.GÜN | Gerçek veri: 98674.0 , Yaklaşım verisi : 97331.0778978893
+43.GÜN | Gerçek veri: 101790.0 , Yaklaşım verisi : 100821.387854698
+44.GÜN | Gerçek veri: 104912.0 , Yaklaşım verisi : 104155.509003007
+45.GÜN | Gerçek veri: 107773.0 , Yaklaşım verisi : 107327.535978050
+46.GÜN | Gerçek veri: 110130.0 , Yaklaşım verisi : 110333.651702873
+47.GÜN | Gerçek veri: 112261.0 , Yaklaşım verisi : 113172.170201866
+48.GÜN | Gerçek veri: 114653.0 , Yaklaşım verisi : 115843.566042389
+49.GÜN | Gerçek veri: 117589.0 , Yaklaşım verisi : 118350.490404462
+50.GÜN | Gerçek veri: 120204.0 , Yaklaşım verisi : 120697.773778547
+51.GÜN | Gerçek veri: 122392.0 , Yaklaşım verisi : 122892.415291391
+52.GÜN | Gerçek veri: 124375.0 , Yaklaşım verisi : 124943.558659963
+53.GÜN | Gerçek veri: 126045.0 , Yaklaşım verisi : 126862.454773452
+54.GÜN | Gerçek veri: 127659.0 , Yaklaşım verisi : 128662.410903350
+55.GÜN | Gerçek veri: 129491.0 , Yaklaşım verisi : 130358.726541617
+56.GÜN | Gerçek veri: 131744.0 , Yaklaşım verisi : 131968.615866915
+57.GÜN | Gerçek veri: 133721.0 , Yaklaşım verisi : 133511.116838922
+58.GÜN | Gerçek veri: 135569.0 , Yaklaşım verisi : 135006.986920726
+59.GÜN | Gerçek veri: 137115.0 , Yaklaşım verisi : 136478.585429290
+60.GÜN | Gerçek veri: 138657.0 , Yaklaşım verisi : 137949.742514001
+61.GÜN | Gerçek veri: 139771.0 , Yaklaşım verisi : 139445.614763294
+62.GÜN | Gerçek veri: 141475.0 , Yaklaşım verisi : 140992.527439351
+63.GÜN | Gerçek veri: 143114.0 , Yaklaşım verisi : 142617.803340879
+64.GÜN | Gerçek veri: 144749.0 , Yaklaşım verisi : 144349.578293959
+65.GÜN | Gerçek veri: 146457.0 , Yaklaşım verisi : 146216.603270993
+66.GÜN | Gerçek veri: 148067.0 , Yaklaşım verisi : 148248.033137700
+67.GÜN | Gerçek veri: 149435.0 , Yaklaşım verisi : 150473.202028208
+En uygun polinom 0.999899876404772 r değeri ile 6. derece polinom.
+
+
+(0-10 ARASI VERİLER) **** 1. derece yaklaştırma katsayıları ****
+a0=-282.6 | a1=93.96363636363637 | 
+r değeri = 0.864440111083658
+
+1.GÜN | Gerçek veri: 1.0 , Yaklaşım verisi : -188.636363636364
+2.GÜN | Gerçek veri: 5.0 , Yaklaşım verisi : -94.6727272727273
+3.GÜN | Gerçek veri: 6.0 , Yaklaşım verisi : -0.709090909090946
+4.GÜN | Gerçek veri: 18.0 , Yaklaşım verisi : 93.2545454545455
+5.GÜN | Gerçek veri: 47.0 , Yaklaşım verisi : 187.218181818182
+6.GÜN | Gerçek veri: 98.0 , Yaklaşım verisi : 281.181818181818
+7.GÜN | Gerçek veri: 191.0 , Yaklaşım verisi : 375.145454545455
+8.GÜN | Gerçek veri: 359.0 , Yaklaşım verisi : 469.109090909091
+9.GÜN | Gerçek veri: 670.0 , Yaklaşım verisi : 563.072727272727
+10.GÜN | Gerçek veri: 947.0 , Yaklaşım verisi : 657.036363636364
+
+(0-10 ARASI VERİLER) **** 2. derece yaklaştırma katsayıları ****
+a0=172.8999999999935 | a1=-133.78636363636085 | a2=20.704545454545222 | 
+r değeri = 0.989674874828129
+
+1.GÜN | Gerçek veri: 1.0 , Yaklaşım verisi : 59.8181818181779
+2.GÜN | Gerçek veri: 5.0 , Yaklaşım verisi : -11.8545454545473
+3.GÜN | Gerçek veri: 6.0 , Yaklaşım verisi : -42.1181818181821
+4.GÜN | Gerçek veri: 18.0 , Yaklaşım verisi : -30.9727272727263
+5.GÜN | Gerçek veri: 47.0 , Yaklaşım verisi : 21.5818181818198
+6.GÜN | Gerçek veri: 98.0 , Yaklaşım verisi : 115.545454545456
+7.GÜN | Gerçek veri: 191.0 , Yaklaşım verisi : 250.918181818183
+8.GÜN | Gerçek veri: 359.0 , Yaklaşım verisi : 427.700000000001
+9.GÜN | Gerçek veri: 670.0 , Yaklaşım verisi : 645.890909090909
+10.GÜN | Gerçek veri: 947.0 , Yaklaşım verisi : 905.490909090907
+
+(0-10 ARASI VERİLER) **** 3. derece yaklaştırma katsayıları ****
+a0=-28.63333333332215 | a1=44.962898212888035 | a2=-18.051864801862603 | a3=2.3488733488732167 | 
+r değeri = 0.998468289954529
+
+1.GÜN | Gerçek veri: 1.0 , Yaklaşım verisi : 0.626573426576499
+2.GÜN | Gerçek veri: 5.0 , Yaklaşım verisi : 7.87599067598924
+3.GÜN | Gerçek veri: 6.0 , Yaklaşım verisi : 7.20815850815538
+4.GÜN | Gerçek veri: 18.0 , Yaklaşım verisi : 12.7163170163142
+5.GÜN | Gerçek veri: 47.0 , Yaklaşım verisi : 38.4937062937050
+6.GÜN | Gerçek veri: 98.0 , Yaklaşım verisi : 98.6335664335672
+7.GÜN | Gerçek veri: 191.0 , Yaklaşım verisi : 207.229137529140
+8.GÜN | Gerçek veri: 359.0 , Yaklaşım verisi : 378.373659673663
+9.GÜN | Gerçek veri: 670.0 , Yaklaşım verisi : 626.160372960374
+10.GÜN | Gerçek veri: 947.0 , Yaklaşım verisi : 964.682517482515
+
+(0-10 ARASI VERİLER) **** 4. derece yaklaştırma katsayıları ****
+a0=-66.3333333331155 | a1=93.29623154597145 | a2=-35.73747086238077 | a3=4.765540015528188 | a4=-0.10984848484796314 | 
+r değeri = 0.998570404220601
+
+1.GÜN | Gerçek veri: 1.0 , Yaklaşım verisi : -4.11888111884459
+2.GÜN | Gerçek veri: 5.0 , Yaklaşım verisi : 13.6759906759624
+3.GÜN | Gerçek veri: 6.0 , Yaklaşım verisi : 11.6899766899480
+4.GÜN | Gerçek veri: 18.0 , Yaklaşım verisi : 11.9254079254035
+5.GÜN | Gerçek veri: 47.0 , Yaklaşım verisi : 33.7482517482690
+6.GÜN | Gerçek veri: 98.0 , Yaklaşım verisi : 93.8881118881338
+7.GÜN | Gerçek veri: 191.0 , Yaklaşım verisi : 206.438228438236
+8.GÜN | Gerçek veri: 359.0 , Yaklaşım verisi : 382.855477855462
+9.GÜN | Gerçek veri: 670.0 , Yaklaşım verisi : 631.960372960349
+10.GÜN | Gerçek veri: 947.0 , Yaklaşım verisi : 959.937062937079
+
+(0-10 ARASI VERİLER) **** 5. derece yaklaştırma katsayıları ****
+a0=130.20000002425672 | a1=-230.68599071531787 | a2=134.33945223471926 | a3=-33.25839161284711 | a4=3.669638695075189 | a5=-0.13743589745157606 | 
+r değeri = 0.999326920092707
+
+1.GÜN | Gerçek veri: 1.0 , Yaklaşım verisi : 4.12727272843463
+2.GÜN | Gerçek veri: 5.0 , Yaklaşım verisi : -5.56503496752634
+3.GÜN | Gerçek veri: 6.0 , Yaklaşım verisi : 13.0643356642618
+4.GÜN | Gerçek veri: 18.0 , Yaklaşım verisi : 27.0433566451130
+5.GÜN | Gerçek veri: 47.0 , Yaklaşım verisi : 41.9944055955783
+6.GÜN | Gerçek veri: 98.0 , Yaklaşım verisi : 85.6419580412560
+7.GÜN | Gerçek veri: 191.0 , Yaklaşım verisi : 191.320279718606
+8.GÜN | Gerçek veri: 359.0 , Yaklaşım verisi : 381.481118880753
+9.GÜN | Gerçek veri: 670.0 , Yaklaşım verisi : 651.201398603316
+10.GÜN | Gerçek veri: 947.0 , Yaklaşım verisi : 951.690909090179
+
+(0-10 ARASI VERİLER) **** 6. derece yaklaştırma katsayıları ****
+a0=-232.4999990090971 | a1=484.9490074113239 | a2=-353.9845237819761 | a3=121.06348299606007 | a4=-20.927804425151827 | a5=1.7806890977918621 | a6=-0.05812499985699057 | 
+r değeri = 0.999871607454521
+
+1.GÜN | Gerçek veri: 1.0 , Yaklaşım verisi : 0.322727289093780
+2.GÜN | Gerçek veri: 5.0 , Yaklaşım verisi : 8.38496499018976
+3.GÜN | Gerçek veri: 6.0 , Yaklaşım verisi : 0.382517511089873
+4.GÜN | Gerçek veri: 18.0 , Yaklaşım verisi : 19.4342657581919
+5.GÜN | Gerçek veri: 47.0 , Yaklaşım verisi : 52.1398601198289
+6.GÜN | Gerçek veri: 98.0 , Yaklaşım verisi : 95.7874125616836
+7.GÜN | Gerçek veri: 191.0 , Yaklaşım verisi : 183.711188825146
+8.GÜN | Gerçek veri: 359.0 , Yaklaşım verisi : 368.799300728715
+9.GÜN | Gerçek veri: 670.0 , Yaklaşım verisi : 665.151398572139
+10.GÜN | Gerçek veri: 947.0 , Yaklaşım verisi : 947.886363643978
+En uygun polinom 0.999871607454521 r değeri ile 6. derece polinom.
+
+
+(10-20 ARASI VERİLER) **** 1. derece yaklaştırma katsayıları ****
+a0=-1910.6666666666638 | a1=1390.5575757575755 | 
+r değeri = 0.969265935902366
+
+11.GÜN | Gerçek veri: 1236.0 , Yaklaşım verisi : -520.109090909088
+12.GÜN | Gerçek veri: 1529.0 , Yaklaşım verisi : 870.448484848487
+13.GÜN | Gerçek veri: 1872.0 , Yaklaşım verisi : 2261.00606060606
+14.GÜN | Gerçek veri: 2433.0 , Yaklaşım verisi : 3651.56363636364
+15.GÜN | Gerçek veri: 3629.0 , Yaklaşım verisi : 5042.12121212121
+16.GÜN | Gerçek veri: 5698.0 , Yaklaşım verisi : 6432.67878787879
+17.GÜN | Gerçek veri: 7402.0 , Yaklaşım verisi : 7823.23636363636
+18.GÜN | Gerçek veri: 9217.0 , Yaklaşım verisi : 9213.79393939394
+19.GÜN | Gerçek veri: 10827.0 , Yaklaşım verisi : 10604.3515151515
+20.GÜN | Gerçek veri: 13531.0 , Yaklaşım verisi : 11994.9090909091
+
+(10-20 ARASI VERİLER) **** 2. derece yaklaştırma katsayıları ****
+a0=1040.3333333333242 | a1=-84.94242424242016 | a2=134.13636363636328 | 
+r değeri = 0.997709372804814
+
+11.GÜN | Gerçek veri: 1236.0 , Yaklaşım verisi : 1089.52727272727
+12.GÜN | Gerçek veri: 1529.0 , Yaklaşım verisi : 1406.99393939394
+13.GÜN | Gerçek veri: 1872.0 , Yaklaşım verisi : 1992.73333333333
+14.GÜN | Gerçek veri: 2433.0 , Yaklaşım verisi : 2846.74545454546
+15.GÜN | Gerçek veri: 3629.0 , Yaklaşım verisi : 3969.03030303030
+16.GÜN | Gerçek veri: 5698.0 , Yaklaşım verisi : 5359.58787878788
+17.GÜN | Gerçek veri: 7402.0 , Yaklaşım verisi : 7018.41818181818
+18.GÜN | Gerçek veri: 9217.0 , Yaklaşım verisi : 8945.52121212121
+19.GÜN | Gerçek veri: 10827.0 , Yaklaşım verisi : 11140.8969696970
+20.GÜN | Gerçek veri: 13531.0 , Yaklaşım verisi : 13604.5454545455
+
+(10-20 ARASI VERİLER) **** 3. derece yaklaştırma katsayıları ****
+a0=1869.0666666663642 | a1=-819.9844599842041 | a2=293.50815850810545 | a3=-9.65889665889355 | 
+r değeri = 0.998559491946651
+
+11.GÜN | Gerçek veri: 1236.0 , Yaklaşım verisi : 1332.93146853137
+12.GÜN | Gerçek veri: 1529.0 , Yaklaşım verisi : 1325.85920745923
+13.GÜN | Gerçek veri: 1872.0 , Yaklaşım verisi : 1789.89650349657
+14.GÜN | Gerçek veri: 2433.0 , Yaklaşım verisi : 2667.08997669005
+15.GÜN | Gerçek veri: 3629.0 , Yaklaşım verisi : 3899.48624708629
+16.GÜN | Gerçek veri: 5698.0 , Yaklaşım verisi : 5429.13193473193
+17.GÜN | Gerçek veri: 7402.0 , Yaklaşım verisi : 7198.07365967362
+18.GÜN | Gerçek veri: 9217.0 , Yaklaşım verisi : 9148.35804195798
+19.GÜN | Gerçek veri: 10827.0 , Yaklaşım verisi : 11222.0317016317
+20.GÜN | Gerçek veri: 13531.0 , Yaklaşım verisi : 13361.1412587413
+
+(10-20 ARASI VERİLER) **** 4. derece yaklaştırma katsayıları ****
+a0=2011.6666666634865 | a1=-1002.8049728011202 | a2=360.4038461524949 | a3=-18.799922299743383 | a4=0.4155011654932252 | 
+r değeri = 0.998567878456209
+
+11.GÜN | Gerçek veri: 1236.0 , Yaklaşım verisi : 1350.88111888061
+12.GÜN | Gerçek veri: 1529.0 , Yaklaşım verisi : 1303.92074592117
+13.GÜN | Gerçek veri: 1872.0 , Yaklaşım verisi : 1772.94405594446
+14.GÜN | Gerçek veri: 2433.0 , Yaklaşım verisi : 2670.08158508161
+15.GÜN | Gerçek veri: 3629.0 , Yaklaşım verisi : 3917.43589743560
+16.GÜN | Gerçek veri: 5698.0 , Yaklaşım verisi : 5447.08158508123
+17.GÜN | Gerçek veri: 7402.0 , Yaklaşım verisi : 7201.06526806515
+18.GÜN | Gerçek veri: 9217.0 , Yaklaşım verisi : 9131.40559440583
+19.GÜN | Gerçek veri: 10827.0 , Yaklaşım verisi : 11200.0932400936
+20.GÜN | Gerçek veri: 13531.0 , Yaklaşım verisi : 13379.0909090906
+
+(10-20 ARASI VERİLER) **** 5. derece yaklaştırma katsayıları ****
+a0=-1291.266667071584 | a1=4442.030583406249 | a2=-2497.9038464911405 | a3=620.2291376031666 | a4=-63.102447559689786 | a5=2.309743590003418 | 
+r değeri = 0.999794193245888
+
+11.GÜN | Gerçek veri: 1236.0 , Yaklaşım verisi : 1212.29650347700
+12.GÜN | Gerçek veri: 1529.0 , Yaklaşım verisi : 1627.28484852676
+13.GÜN | Gerçek veri: 1872.0 , Yaklaşım verisi : 1749.84662004836
+14.GÜN | Gerçek veri: 2433.0 , Yaklaşım verisi : 2416.00979018074
+15.GÜN | Gerçek veri: 3629.0 , Yaklaşım verisi : 3778.85128203154
+16.GÜN | Gerçek veri: 5698.0 , Yaklaşım verisi : 5585.66620047746
+17.GÜN | Gerçek veri: 7402.0 , Yaklaşım verisi : 7455.13706296467
+18.GÜN | Gerçek veri: 9217.0 , Yaklaşım verisi : 9154.50303030931
+19.GÜN | Gerçek veri: 10827.0 , Yaklaşım verisi : 10876.7291374979
+20.GÜN | Gerçek veri: 13531.0 , Yaklaşım verisi : 13517.6755244875
+
+(10-20 ARASI VERİLER) **** 6. derece yaklaştırma katsayıları ****
+a0=298.6333355400902 | a1=1305.0355784322053 | a2=-357.32956293972643 | a3=-56.24273837854799 | a4=44.72075334790483 | a5=-6.098381421253966 | a6=0.25479166699622335 | 
+r değeri = 0.999854262444298
+
+11.GÜN | Gerçek veri: 1236.0 , Yaklaşım verisi : 1228.97377624767
+12.GÜN | Gerçek veri: 1529.0 , Yaklaşım verisi : 1566.13484839132
+13.GÜN | Gerçek veri: 1872.0 , Yaklaşım verisi : 1805.43752921420
+14.GÜN | Gerçek veri: 2433.0 , Yaklaşım verisi : 2449.36433572232
+15.GÜN | Gerçek veri: 3629.0 , Yaklaşım verisi : 3734.37855472732
+16.GÜN | Gerçek veri: 5698.0 , Yaklaşım verisi : 5541.19347312642
+17.GÜN | Gerçek veri: 7402.0 , Yaklaşım verisi : 7488.49160841975
+18.GÜN | Gerçek veri: 9217.0 , Yaklaşım verisi : 9210.09393946486
+19.GÜN | Gerçek veri: 10827.0 , Yaklaşım verisi : 10815.5791374688
+20.GÜN | Gerçek veri: 13531.0 , Yaklaşım verisi : 13534.3527972167
+En uygun polinom 0.999854262444298 r değeri ile 6. derece polinom.
+
+
+(20-30 ARASI VERİLER) **** 1. derece yaklaştırma katsayıları ****
+a0=10774.2 | a1=3455.254545454545 | 
+r değeri = 0.995244072045670
+
+21.GÜN | Gerçek veri: 15679.0 , Yaklaşım verisi : 14229.4545454545
+22.GÜN | Gerçek veri: 18315.0 , Yaklaşım verisi : 17684.7090909091
+23.GÜN | Gerçek veri: 20921.0 , Yaklaşım verisi : 21139.9636363636
+24.GÜN | Gerçek veri: 23934.0 , Yaklaşım verisi : 24595.2181818182
+25.GÜN | Gerçek veri: 27069.0 , Yaklaşım verisi : 28050.4727272727
+26.GÜN | Gerçek veri: 30217.0 , Yaklaşım verisi : 31505.7272727273
+27.GÜN | Gerçek veri: 34109.0 , Yaklaşım verisi : 34960.9818181818
+28.GÜN | Gerçek veri: 38226.0 , Yaklaşım verisi : 38416.2363636364
+29.GÜN | Gerçek veri: 42282.0 , Yaklaşım verisi : 41871.4909090909
+30.GÜN | Gerçek veri: 47029.0 , Yaklaşım verisi : 45326.7454545455
+
+(20-30 ARASI VERİLER) **** 2. derece yaklaştırma katsayıları ****
+a0=13692.699999999995 | a1=1996.0045454545484 | a2=132.65909090909062 | 
+r değeri = 0.999927597051872
+
+21.GÜN | Gerçek veri: 15679.0 , Yaklaşım verisi : 15821.3636363636
+22.GÜN | Gerçek veri: 18315.0 , Yaklaşım verisi : 18215.3454545455
+23.GÜN | Gerçek veri: 20921.0 , Yaklaşım verisi : 20874.6454545455
+24.GÜN | Gerçek veri: 23934.0 , Yaklaşım verisi : 23799.2636363636
+25.GÜN | Gerçek veri: 27069.0 , Yaklaşım verisi : 26989.2000000000
+26.GÜN | Gerçek veri: 30217.0 , Yaklaşım verisi : 30444.4545454545
+27.GÜN | Gerçek veri: 34109.0 , Yaklaşım verisi : 34165.0272727273
+28.GÜN | Gerçek veri: 38226.0 , Yaklaşım verisi : 38150.9181818182
+29.GÜN | Gerçek veri: 42282.0 , Yaklaşım verisi : 42402.1272727273
+30.GÜN | Gerçek veri: 47029.0 , Yaklaşım verisi : 46918.6545454545
+
+(20-30 ARASI VERİLER) **** 3. derece yaklaştırma katsayıları ****
+a0=13321.266666667198 | a1=2325.445998445547 | a2=61.22960372969878 | a3=4.3290598290541835 | 
+r değeri = 0.999956705379165
+
+21.GÜN | Gerçek veri: 15679.0 , Yaklaşım verisi : 15712.2713286715
+22.GÜN | Gerçek veri: 18315.0 , Yaklaşım verisi : 18251.7095571095
+23.GÜN | Gerçek veri: 20921.0 , Yaklaşım verisi : 20965.5557109556
+24.GÜN | Gerçek veri: 23934.0 , Yaklaşım verisi : 23879.7841491840
+25.GÜN | Gerçek veri: 27069.0 , Yaklaşım verisi : 27020.3692307692
+26.GÜN | Gerçek veri: 30217.0 , Yaklaşım verisi : 30413.2853146853
+27.GÜN | Gerçek veri: 34109.0 , Yaklaşım verisi : 34084.5067599069
+28.GÜN | Gerçek veri: 38226.0 , Yaklaşım verisi : 38060.0079254080
+29.GÜN | Gerçek veri: 42282.0 , Yaklaşım verisi : 42365.7631701632
+30.GÜN | Gerçek veri: 47029.0 , Yaklaşım verisi : 47027.7468531467
+
+(20-30 ARASI VERİLER) **** 4. derece yaklaştırma katsayıları ****
+a0=13090.666666667808 | a1=2621.087024085602 | a2=-46.9481351976237 | a3=19.111111111041954 | a4=-0.6719114219083002 | 
+r değeri = 0.999960445156247
+
+21.GÜN | Gerçek veri: 15679.0 , Yaklaşım verisi : 15683.2447552449
+22.GÜN | Gerçek veri: 18315.0 , Yaklaşım verisi : 18287.1864801863
+23.GÜN | Gerçek veri: 20921.0 , Yaklaşım verisi : 20992.9696969696
+24.GÜN | Gerçek veri: 23934.0 , Yaklaşım verisi : 23874.9463869464
+25.GÜN | Gerçek veri: 27069.0 , Yaklaşım verisi : 26991.3426573428
+26.GÜN | Gerçek veri: 30217.0 , Yaklaşım verisi : 30384.2587412589
+27.GÜN | Gerçek veri: 34109.0 , Yaklaşım verisi : 34079.6689976690
+28.GÜN | Gerçek veri: 38226.0 , Yaklaşım verisi : 38087.4219114218
+29.GÜN | Gerçek veri: 42282.0 , Yaklaşım verisi : 42401.2400932399
+30.GÜN | Gerçek veri: 47029.0 , Yaklaşım verisi : 46998.7202797204
+
+(20-30 ARASI VERİLER) **** 5. derece yaklaştırma katsayıları ****
+a0=12966.000000041122 | a1=2826.5981351305422 | a2=-154.83275054735324 | a3=43.230769222871714 | a4=-3.0693473185636977 | a5=0.08717948715103459 | 
+r değeri = 0.999960743251800
+
+21.GÜN | Gerçek veri: 15679.0 , Yaklaşım verisi : 15678.0139860158
+22.GÜN | Gerçek veri: 18315.0 , Yaklaşım verisi : 18299.3916083876
+23.GÜN | Gerçek veri: 20921.0 , Yaklaşım verisi : 20992.0979020982
+24.GÜN | Gerçek veri: 23934.0 , Yaklaşım verisi : 23865.3566433598
+25.GÜN | Gerçek veri: 27069.0 , Yaklaşım verisi : 26986.1118881136
+26.GÜN | Gerçek veri: 30217.0 , Yaklaşım verisi : 30389.4895104878
+27.GÜN | Gerçek veri: 34109.0 , Yaklaşım verisi : 34089.2587412556
+28.GÜN | Gerçek veri: 38226.0 , Yaklaşım verisi : 38088.2937062934
+29.GÜN | Gerçek veri: 42282.0 , Yaklaşım verisi : 42389.0349650389
+30.GÜN | Gerçek veri: 47029.0 , Yaklaşım verisi : 47003.9510489494
+
+(20-30 ARASI VERİLER) **** 6. derece yaklaştırma katsayıları ****
+a0=14264.699994608007 | a1=264.1631456299433 | a2=1593.6821288066506 | a3=-509.34110360498704 | a4=85.00536825008174 | a5=-6.7809454866750665 | a6=0.20812499921628685 | 
+r değeri = 0.999967586468212
+
+21.GÜN | Gerçek veri: 15679.0 , Yaklaşım verisi : 15691.6367132022
+22.GÜN | Gerçek veri: 18315.0 , Yaklaşım verisi : 18249.4416086322
+23.GÜN | Gerçek veri: 20921.0 , Yaklaşım verisi : 21037.5069928463
+24.GÜN | Gerçek veri: 23934.0 , Yaklaşım verisi : 23892.6020977706
+25.GÜN | Gerçek veri: 27069.0 , Yaklaşım verisi : 26949.7846154966
+26.GÜN | Gerçek veri: 30217.0 , Yaklaşım verisi : 30353.1622379056
+27.GÜN | Gerçek veri: 34109.0 , Yaklaşım verisi : 34116.5041957283
+28.GÜN | Gerçek veri: 38226.0 , Yaklaşım verisi : 38133.7027970403
+29.GÜN | Gerçek veri: 42282.0 , Yaklaşım verisi : 42339.0849651937
+30.GÜN | Gerçek veri: 47029.0 , Yaklaşım verisi : 47017.5737761831
+En uygun polinom 0.999967586468212 r değeri ile 6. derece polinom.
+
+
+(30-40 ARASI VERİLER) **** 1. derece yaklaştırma katsayıları ****
+a0=48160.466666666674 | a1=4280.442424242424 | 
+r değeri = 0.999788132633987
+
+31.GÜN | Gerçek veri: 52167.0 , Yaklaşım verisi : 52440.9090909091
+32.GÜN | Gerçek veri: 56956.0 , Yaklaşım verisi : 56721.3515151515
+33.GÜN | Gerçek veri: 61049.0 , Yaklaşım verisi : 61001.7939393939
+34.GÜN | Gerçek veri: 65111.0 , Yaklaşım verisi : 65282.2363636364
+35.GÜN | Gerçek veri: 69392.0 , Yaklaşım verisi : 69562.6787878788
+36.GÜN | Gerçek veri: 74193.0 , Yaklaşım verisi : 73843.1212121212
+37.GÜN | Gerçek veri: 78546.0 , Yaklaşım verisi : 78123.5636363636
+38.GÜN | Gerçek veri: 82329.0 , Yaklaşım verisi : 82404.0060606061
+39.GÜN | Gerçek veri: 86306.0 , Yaklaşım verisi : 86684.4484848485
+40.GÜN | Gerçek veri: 90980.0 , Yaklaşım verisi : 90964.8909090909
+
+(30-40 ARASI VERİLER) **** 2. derece yaklaştırma katsayıları ****
+a0=47886.8833333333 | a1=4417.234090909108 | a2=-12.435606060607649 | 
+r değeri = 0.999815135426734
+
+31.GÜN | Gerçek veri: 52167.0 , Yaklaşım verisi : 52291.6818181818
+32.GÜN | Gerçek veri: 56956.0 , Yaklaşım verisi : 56671.6090909091
+33.GÜN | Gerçek veri: 61049.0 , Yaklaşım verisi : 61026.6651515152
+34.GÜN | Gerçek veri: 65111.0 , Yaklaşım verisi : 65356.8500000000
+35.GÜN | Gerçek veri: 69392.0 , Yaklaşım verisi : 69662.1636363636
+36.GÜN | Gerçek veri: 74193.0 , Yaklaşım verisi : 73942.6060606061
+37.GÜN | Gerçek veri: 78546.0 , Yaklaşım verisi : 78198.1772727273
+38.GÜN | Gerçek veri: 82329.0 , Yaklaşım verisi : 82428.8772727273
+39.GÜN | Gerçek veri: 86306.0 , Yaklaşım verisi : 86634.7060606061
+40.GÜN | Gerçek veri: 90980.0 , Yaklaşım verisi : 90815.6636363636
+
+(30-40 ARASI VERİLER) **** 3. derece yaklaştırma katsayıları ****
+a0=47881.066666666986 | a1=4422.3931623929075 | a2=-13.554195804142292 | a3=0.06779331779012586 | 
+r değeri = 0.999815140121334
+
+31.GÜN | Gerçek veri: 52167.0 , Yaklaşım verisi : 52289.9734265735
+32.GÜN | Gerçek veri: 56956.0 , Yaklaşım verisi : 56672.1785547786
+33.GÜN | Gerçek veri: 61049.0 , Yaklaşım verisi : 61028.0888111888
+34.GÜN | Gerçek veri: 65111.0 , Yaklaşım verisi : 65358.1109557109
+35.GÜN | Gerçek veri: 69392.0 , Yaklaşım verisi : 69662.6517482517
+36.GÜN | Gerçek veri: 74193.0 , Yaklaşım verisi : 73942.1179487180
+37.GÜN | Gerçek veri: 78546.0 , Yaklaşım verisi : 78196.9163170164
+38.GÜN | Gerçek veri: 82329.0 , Yaklaşım verisi : 82427.4536130537
+39.GÜN | Gerçek veri: 86306.0 , Yaklaşım verisi : 86634.1365967366
+40.GÜN | Gerçek veri: 90980.0 , Yaklaşım verisi : 90817.3720279720
+
+(30-40 ARASI VERİLER) **** 4. derece yaklaştırma katsayıları ****
+a0=48028.91666666967 | a1=4232.841880338487 | a2=55.80434149296556 | a3=-9.409770784913448 | a4=0.4307983683045032 | 
+r değeri = 0.999816151168412
+
+31.GÜN | Gerçek veri: 52167.0 , Yaklaşım verisi : 52308.5839160845
+32.GÜN | Gerçek veri: 56956.0 , Yaklaşım verisi : 56649.4324009321
+33.GÜN | Gerçek veri: 61049.0 , Yaklaşım verisi : 61010.5122377618
+34.GÜN | Gerçek veri: 65111.0 , Yaklaşım verisi : 65361.2127039626
+35.GÜN | Gerçek veri: 69392.0 , Yaklaşım verisi : 69681.2622377624
+36.GÜN | Gerçek veri: 74193.0 , Yaklaşım verisi : 73960.7284382287
+37.GÜN | Gerçek veri: 78546.0 , Yaklaşım verisi : 78200.0180652682
+38.GÜN | Gerçek veri: 82329.0 , Yaklaşım verisi : 82409.8770396269
+39.GÜN | Gerçek veri: 86306.0 , Yaklaşım verisi : 86611.3904428902
+40.GÜN | Gerçek veri: 90980.0 , Yaklaşım verisi : 90835.9825174827
+
+(30-40 ARASI VERİLER) **** 5. derece yaklaştırma katsayıları ****
+a0=44389.93333288567 | a1=10231.650769956104 | a2=-3093.315851189367 | a3=694.6359557930082 | a4=-69.54965035768342 | a5=2.5447435900319633 | 
+r değeri = 0.999983175956570
+
+31.GÜN | Gerçek veri: 52167.0 , Yaklaşım verisi : 52155.8993006778
+32.GÜN | Gerçek veri: 56956.0 , Yaklaşım verisi : 57005.6965035426
+33.GÜN | Gerçek veri: 61049.0 , Yaklaşım verisi : 60985.0648018663
+34.GÜN | Gerçek veri: 65111.0 , Yaklaşım verisi : 65081.2909090585
+35.GÜN | Gerçek veri: 69392.0 , Yaklaşım verisi : 69528.5776223558
+36.GÜN | Gerçek veri: 74193.0 , Yaklaşım verisi : 74113.4130536257
+37.GÜN | Gerçek veri: 78546.0 , Yaklaşım verisi : 78479.9398601705
+38.GÜN | Gerçek veri: 82329.0 , Yaklaşım verisi : 82435.3244755313
+39.GÜN | Gerçek veri: 86306.0 , Yaklaşım verisi : 86255.1263402912
+40.GÜN | Gerçek veri: 90980.0 , Yaklaşım verisi : 90988.6671328802
+
+(30-40 ARASI VERİLER) **** 6. derece yaklaştırma katsayıları ****
+a0=44650.36667367363 | a1=9717.795755652318 | a2=-2742.67938971168 | a3=583.8265778924825 | a4=-51.88768652376794 | a5=1.1674518890819592 | a6=0.041736112129069906 | 
+r değeri = 0.999983356910061
+
+31.GÜN | Gerçek veri: 52167.0 , Yaklaşım verisi : 52158.6311189842
+32.GÜN | Gerçek veri: 56956.0 , Yaklaşım verisi : 56995.6798365180
+33.GÜN | Gerçek veri: 61049.0 , Yaklaşım verisi : 60994.1708626863
+34.GÜN | Gerçek veri: 65111.0 , Yaklaşım verisi : 65086.7545456309
+35.GÜN | Gerçek veri: 69392.0 , Yaklaşım verisi : 69521.2927737464
+36.GÜN | Gerçek veri: 74193.0 , Yaklaşım verisi : 74106.1282049352
+37.GÜN | Gerçek veri: 78546.0 , Yaklaşım verisi : 78485.4034965956
+38.GÜN | Gerçek veri: 82329.0 , Yaklaşım verisi : 82444.4305363428
+39.GÜN | Gerçek veri: 86306.0 , Yaklaşım verisi : 86245.1096734623
+40.GÜN | Gerçek veri: 90980.0 , Yaklaşım verisi : 90991.3989510977
+En uygun polinom 0.999983356910061 r değeri ile 6. derece polinom.
+
+
+(40-50 ARASI VERİLER) **** 1. derece yaklaştırma katsayıları ****
+a0=93603.00000000003 | a1=2682.6727272727217 | 
+r değeri = 0.998369471476960
+
+41.GÜN | Gerçek veri: 95591.0 , Yaklaşım verisi : 96285.6727272727
+42.GÜN | Gerçek veri: 98674.0 , Yaklaşım verisi : 98968.3454545455
+43.GÜN | Gerçek veri: 101790.0 , Yaklaşım verisi : 101651.018181818
+44.GÜN | Gerçek veri: 104912.0 , Yaklaşım verisi : 104333.690909091
+45.GÜN | Gerçek veri: 107773.0 , Yaklaşım verisi : 107016.363636364
+46.GÜN | Gerçek veri: 110130.0 , Yaklaşım verisi : 109699.036363636
+47.GÜN | Gerçek veri: 112261.0 , Yaklaşım verisi : 112381.709090909
+48.GÜN | Gerçek veri: 114653.0 , Yaklaşım verisi : 115064.381818182
+49.GÜN | Gerçek veri: 117589.0 , Yaklaşım verisi : 117747.054545455
+50.GÜN | Gerçek veri: 120204.0 , Yaklaşım verisi : 120429.727272727
+
+(40-50 ARASI VERİLER) **** 2. derece yaklaştırma katsayıları ****
+a0=92579.83333333283 | a1=3194.256060606281 | a2=-46.50757575759442 | 
+r değeri = 0.999329191589198
+
+41.GÜN | Gerçek veri: 95591.0 , Yaklaşım verisi : 95727.5818181815
+42.GÜN | Gerçek veri: 98674.0 , Yaklaşım verisi : 98782.3151515150
+43.GÜN | Gerçek veri: 101790.0 , Yaklaşım verisi : 101744.033333333
+44.GÜN | Gerçek veri: 104912.0 , Yaklaşım verisi : 104612.736363636
+45.GÜN | Gerçek veri: 107773.0 , Yaklaşım verisi : 107388.424242424
+46.GÜN | Gerçek veri: 110130.0 , Yaklaşım verisi : 110071.096969697
+47.GÜN | Gerçek veri: 112261.0 , Yaklaşım verisi : 112660.754545455
+48.GÜN | Gerçek veri: 114653.0 , Yaklaşım verisi : 115157.396969697
+49.GÜN | Gerçek veri: 117589.0 , Yaklaşım verisi : 117561.024242424
+50.GÜN | Gerçek veri: 120204.0 , Yaklaşım verisi : 119871.636363636
+
+(40-50 ARASI VERİLER) **** 3. derece yaklaştırma katsayıları ****
+a0=91536.03333333587 | a1=4120.050699298587 | a2=-247.23834498790626 | a3=12.165501165475362 | 
+r değeri = 0.999713094199722
+
+41.GÜN | Gerçek veri: 95591.0 , Yaklaşım verisi : 95421.0111888120
+42.GÜN | Gerçek veri: 98674.0 , Yaklaşım verisi : 98884.5053613052
+43.GÜN | Gerçek veri: 101790.0 , Yaklaşım verisi : 101999.508857808
+44.GÜN | Gerçek veri: 104912.0 , Yaklaşım verisi : 104839.014685314
+45.GÜN | Gerçek veri: 107773.0 , Yaklaşım verisi : 107476.015850816
+46.GÜN | Gerçek veri: 110130.0 , Yaklaşım verisi : 109983.505361305
+47.GÜN | Gerçek veri: 112261.0 , Yaklaşım verisi : 112434.476223777
+48.GÜN | Gerçek veri: 114653.0 , Yaklaşım verisi : 114901.921445222
+49.GÜN | Gerçek veri: 117589.0 , Yaklaşım verisi : 117458.834032634
+50.GÜN | Gerçek veri: 120204.0 , Yaklaşım verisi : 120178.206993006
+
+(40-50 ARASI VERİLER) **** 4. derece yaklaştırma katsayıları ****
+a0=92574.33333333847 | a1=2788.8968531404007 | a2=239.8429487202599 | a3=-54.3921911425012 | a4=3.025349650363533 | 
+r değeri = 0.999839684387049
+
+41.GÜN | Gerçek veri: 95591.0 , Yaklaşım verisi : 95551.7062937070
+42.GÜN | Gerçek veri: 98674.0 , Yaklaşım verisi : 98724.7668997661
+43.GÜN | Gerçek veri: 101790.0 , Yaklaşım verisi : 101876.074592074
+44.GÜN | Gerçek veri: 104912.0 , Yaklaşım verisi : 104860.797202797
+45.GÜN | Gerçek veri: 107773.0 , Yaklaşım verisi : 107606.710955712
+46.GÜN | Gerçek veri: 110130.0 , Yaklaşım verisi : 110114.200466201
+47.GÜN | Gerçek veri: 112261.0 , Yaklaşım verisi : 112456.258741259
+48.GÜN | Gerçek veri: 114653.0 , Yaklaşım verisi : 114778.487179487
+49.GÜN | Gerçek veri: 117589.0 , Yaklaşım verisi : 117299.095571095
+50.GÜN | Gerçek veri: 120204.0 , Yaklaşım verisi : 120308.902097903
+
+(40-50 ARASI VERİLER) **** 5. derece yaklaştırma katsayıları ****
+a0=94277.13333334184 | a1=-18.14314687146874 | a2=1713.419871806177 | a3=-383.8383449911384 | a4=35.77150349679997 | a5=-1.190769230780511 | 
+r değeri = 0.999932530244013
+
+41.GÜN | Gerçek veri: 95591.0 , Yaklaşım verisi : 95623.1524475514
+42.GÜN | Gerçek veri: 98674.0 , Yaklaşım verisi : 98558.0592074583
+43.GÜN | Gerçek veri: 101790.0 , Yaklaşım verisi : 101887.982284383
+44.GÜN | Gerçek veri: 104912.0 , Yaklaşım verisi : 104991.781818183
+45.GÜN | Gerçek veri: 107773.0 , Yaklaşım verisi : 107678.157109558
+46.GÜN | Gerçek veri: 110130.0 , Yaklaşım verisi : 110042.754312353
+47.GÜN | Gerçek veri: 112261.0 , Yaklaşım verisi : 112325.274125872
+48.GÜN | Gerçek veri: 114653.0 , Yaklaşım verisi : 114766.579487179
+49.GÜN | Gerçek veri: 117589.0 , Yaklaşım verisi : 117465.803263405
+50.GÜN | Gerçek veri: 120204.0 , Yaklaşım verisi : 120237.455944055
+
+(40-50 ARASI VERİLER) **** 6. derece yaklaştırma katsayıları ****
+a0=91129.40000685092 | a1=6192.576839919076 | a2=-2524.5554729062837 | a3=955.4616522706791 | a4=-177.70021324486933 | a5=15.455897402748764 | a6=-0.5044444434499824 | 
+r değeri = 0.999999640008903
+
+41.GÜN | Gerçek veri: 95591.0 , Yaklaşım verisi : 95590.1342658488
+42.GÜN | Gerçek veri: 98674.0 , Yaklaşım verisi : 98679.1258738186
+43.GÜN | Gerçek veri: 101790.0 , Yaklaşım verisi : 101777.921678518
+44.GÜN | Gerçek veri: 104912.0 , Yaklaşım verisi : 104925.745454707
+45.GÜN | Gerçek veri: 107773.0 , Yaklaşım verisi : 107766.205594265
+46.GÜN | Gerçek veri: 110130.0 , Yaklaşım verisi : 110130.802797027
+47.GÜN | Gerçek veri: 112261.0 , Yaklaşım verisi : 112259.237762340
+48.GÜN | Gerçek veri: 114653.0 , Yaklaşım verisi : 114656.518881324
+49.GÜN | Gerçek veri: 117589.0 , Yaklaşım verisi : 117586.869929861
+50.GÜN | Gerçek veri: 120204.0 , Yaklaşım verisi : 120204.437762293
+En uygun polinom 0.999999640008903 r değeri ile 6. derece polinom.
+
+
+(50-60 ARASI VERİLER) **** 1. derece yaklaştırma katsayıları ****
+a0=120555.99999999997 | a1=1840.1454545454587 | 
+r değeri = 0.999222432359824
+
+51.GÜN | Gerçek veri: 122392.0 , Yaklaşım verisi : 122396.145454545
+52.GÜN | Gerçek veri: 124375.0 , Yaklaşım verisi : 124236.290909091
+53.GÜN | Gerçek veri: 126045.0 , Yaklaşım verisi : 126076.436363636
+54.GÜN | Gerçek veri: 127659.0 , Yaklaşım verisi : 127916.581818182
+55.GÜN | Gerçek veri: 129491.0 , Yaklaşım verisi : 129756.727272727
+56.GÜN | Gerçek veri: 131744.0 , Yaklaşım verisi : 131596.872727273
+57.GÜN | Gerçek veri: 133721.0 , Yaklaşım verisi : 133437.018181818
+58.GÜN | Gerçek veri: 135569.0 , Yaklaşım verisi : 135277.163636364
+59.GÜN | Gerçek veri: 137115.0 , Yaklaşım verisi : 137117.309090909
+60.GÜN | Gerçek veri: 138657.0 , Yaklaşım verisi : 138957.454545455
+
+(50-60 ARASI VERİLER) **** 2. derece yaklaştırma katsayıları ****
+a0=120437.66666666653 | a1=1899.3121212121725 | a2=-5.3787878787918535 | 
+r değeri = 0.999249751733928
+
+51.GÜN | Gerçek veri: 122392.0 , Yaklaşım verisi : 122331.600000000
+52.GÜN | Gerçek veri: 124375.0 , Yaklaşım verisi : 124214.775757576
+53.GÜN | Gerçek veri: 126045.0 , Yaklaşım verisi : 126087.193939394
+54.GÜN | Gerçek veri: 127659.0 , Yaklaşım verisi : 127948.854545455
+55.GÜN | Gerçek veri: 129491.0 , Yaklaşım verisi : 129799.757575758
+56.GÜN | Gerçek veri: 131744.0 , Yaklaşım verisi : 131639.903030303
+57.GÜN | Gerçek veri: 133721.0 , Yaklaşım verisi : 133469.290909091
+58.GÜN | Gerçek veri: 135569.0 , Yaklaşım verisi : 135287.921212121
+59.GÜN | Gerçek veri: 137115.0 , Yaklaşım verisi : 137095.793939394
+60.GÜN | Gerçek veri: 138657.0 , Yaklaşım verisi : 138892.909090909
+
+(50-60 ARASI VERİLER) **** 3. derece yaklaştırma katsayıları ****
+a0=121163.13333333474 | a1=1255.862082360906 | a2=134.134032634276 | a3=-8.455322455336734 | 
+r değeri = 0.999644596507247
+
+51.GÜN | Gerçek veri: 122392.0 , Yaklaşım verisi : 122544.674125875
+52.GÜN | Gerçek veri: 124375.0 , Yaklaşım verisi : 124143.751048951
+53.GÜN | Gerçek veri: 126045.0 , Yaklaşım verisi : 125909.632167832
+54.GÜN | Gerçek veri: 127659.0 , Yaklaşım verisi : 127791.585547785
+55.GÜN | Gerçek veri: 129491.0 , Yaklaşım verisi : 129738.879254079
+56.GÜN | Gerçek veri: 131744.0 , Yaklaşım verisi : 131700.781351981
+57.GÜN | Gerçek veri: 133721.0 , Yaklaşım verisi : 133626.559906760
+58.GÜN | Gerçek veri: 135569.0 , Yaklaşım verisi : 135465.482983683
+59.GÜN | Gerçek veri: 137115.0 , Yaklaşım verisi : 137166.818648019
+60.GÜN | Gerçek veri: 138657.0 , Yaklaşım verisi : 138679.834965035
+
+(50-60 ARASI VERİLER) **** 4. derece yaklaştırma katsayıları ****
+a0=120414.83333334106 | a1=2215.2210567122206 | a2=-216.90413752618144 | a3=39.512626262248624 | a4=-2.1803613053449977 | 
+r değeri = 0.999784589248275
+
+51.GÜN | Gerçek veri: 122392.0 , Yaklaşım verisi : 122450.482517484
+52.GÜN | Gerçek veri: 124375.0 , Yaklaşım verisi : 124258.874125873
+53.GÜN | Gerçek veri: 126045.0 , Yaklaşım verisi : 125998.590909090
+54.GÜN | Gerçek veri: 127659.0 , Yaklaşım verisi : 127775.886946387
+55.GÜN | Gerçek veri: 129491.0 , Yaklaşım verisi : 129644.687645688
+56.GÜN | Gerçek veri: 131744.0 , Yaklaşım verisi : 131606.589743590
+57.GÜN | Gerçek veri: 133721.0 , Yaklaşım verisi : 133610.861305362
+58.GÜN | Gerçek veri: 135569.0 , Yaklaşım verisi : 135554.441724941
+59.GÜN | Gerçek veri: 137115.0 , Yaklaşım verisi : 137281.941724941
+60.GÜN | Gerçek veri: 138657.0 , Yaklaşım verisi : 138585.643356644
+
+(50-60 ARASI VERİLER) **** 5. derece yaklaştırma katsayıları ****
+a0=118773.26666640803 | a1=4921.3188349160555 | a2=-1637.4906762046394 | a3=357.1117716086171 | a4=-33.748951053525076 | a5=1.147948718112565 | 
+r değeri = 0.999968297786105
+
+51.GÜN | Gerçek veri: 122392.0 , Yaklaşım verisi : 122381.605594393
+52.GÜN | Gerçek veri: 124375.0 , Yaklaşım verisi : 124419.586946414
+53.GÜN | Gerçek veri: 126045.0 , Yaklaşım verisi : 125987.111421913
+54.GÜN | Gerçek veri: 127659.0 , Yaklaşım verisi : 127649.612587394
+55.GÜN | Gerçek veri: 129491.0 , Yaklaşım verisi : 129575.810722598
+56.GÜN | Gerçek veri: 131744.0 , Yaklaşım verisi : 131675.466666673
+57.GÜN | Gerçek veri: 133721.0 , Yaklaşım verisi : 133737.135664353
+58.GÜN | Gerçek veri: 135569.0 , Yaklaşım verisi : 135565.921212125
+59.GÜN | Gerçek veri: 137115.0 , Yaklaşım verisi : 137121.228904409
+60.GÜN | Gerçek veri: 138657.0 , Yaklaşım verisi : 138654.520279728
+
+(50-60 ARASI VERİLER) **** 6. derece yaklaştırma katsayıları ****
+a0=119335.30000315615 | a1=3812.3838283634236 | a2=-880.7927047034542 | a3=117.97739528244625 | a4=4.366800414577164 | a5=-1.824342964181027 | a6=0.09006944490772717 | 
+r değeri = 0.999972852749547
+
+51.GÜN | Gerçek veri: 122392.0 , Yaklaşım verisi : 122387.501048994
+52.GÜN | Gerçek veri: 124375.0 , Yaklaşım verisi : 124397.970279582
+53.GÜN | Gerçek veri: 126045.0 , Yaklaşım verisi : 126006.762937164
+54.GÜN | Gerçek veri: 127659.0 , Yaklaşım verisi : 127661.403496584
+55.GÜN | Gerçek veri: 129491.0 , Yaklaşım verisi : 129560.089510421
+56.GÜN | Gerçek veri: 131744.0 , Yaklaşım verisi : 131659.745454456
+57.GÜN | Gerçek veri: 133721.0 , Yaklaşım verisi : 133748.926573468
+58.GÜN | Gerçek veri: 135569.0 , Yaklaşım verisi : 135585.572727370
+59.GÜN | Gerçek veri: 137115.0 , Yaklaşım verisi : 137099.612237673
+60.GÜN | Gerçek veri: 138657.0 , Yaklaşım verisi : 138660.415734287
+En uygun polinom 0.999972852749547 r değeri ile 6. derece polinom.
+
+
+(60-67 ARASI VERİLER) **** 1. derece yaklaştırma katsayıları ****
+a0=138221.2857142857 | a1=1625.6785714285713 | 
+r değeri = 0.999634446174957
+
+61.GÜN | Gerçek veri: 139771.0 , Yaklaşım verisi : 139846.964285714
+62.GÜN | Gerçek veri: 141475.0 , Yaklaşım verisi : 141472.642857143
+63.GÜN | Gerçek veri: 143114.0 , Yaklaşım verisi : 143098.321428571
+64.GÜN | Gerçek veri: 144749.0 , Yaklaşım verisi : 144724.000000000
+65.GÜN | Gerçek veri: 146457.0 , Yaklaşım verisi : 146349.678571429
+66.GÜN | Gerçek veri: 148067.0 , Yaklaşım verisi : 147975.357142857
+67.GÜN | Gerçek veri: 149435.0 , Yaklaşım verisi : 149601.035714286
+
+(60-67 ARASI VERİLER) **** 2. derece yaklaştırma katsayıları ****
+a0=137981.42857142864 | a1=1785.5833333332976 | a2=-19.988095238090775 | 
+r değeri = 0.999861096683604
+
+61.GÜN | Gerçek veri: 139771.0 , Yaklaşım verisi : 139747.023809524
+62.GÜN | Gerçek veri: 141475.0 , Yaklaşım verisi : 141472.642857143
+63.GÜN | Gerçek veri: 143114.0 , Yaklaşım verisi : 143158.285714286
+64.GÜN | Gerçek veri: 144749.0 , Yaklaşım verisi : 144803.952380952
+65.GÜN | Gerçek veri: 146457.0 , Yaklaşım verisi : 146409.642857143
+66.GÜN | Gerçek veri: 148067.0 , Yaklaşım verisi : 147975.357142857
+67.GÜN | Gerçek veri: 149435.0 , Yaklaşım verisi : 149501.095238095
+
+(60-67 ARASI VERİLER) **** 3. derece yaklaştırma katsayıları ****
+a0=138252.42857142846 | a1=1476.9444444445305 | a2=70.34523809522793 | a3=-7.527777777777859 | 
+r değeri = 0.999943748946269
+
+61.GÜN | Gerçek veri: 139771.0 , Yaklaşım verisi : 139792.190476190
+62.GÜN | Gerçek veri: 141475.0 , Yaklaşım verisi : 141427.476190476
+63.GÜN | Gerçek veri: 143114.0 , Yaklaşım verisi : 143113.119047619
+64.GÜN | Gerçek veri: 144749.0 , Yaklaşım verisi : 144803.952380952
+65.GÜN | Gerçek veri: 146457.0 , Yaklaşım verisi : 146454.809523810
+66.GÜN | Gerçek veri: 148067.0 , Yaklaşım verisi : 148020.523809524
+67.GÜN | Gerçek veri: 149435.0 , Yaklaşım verisi : 149455.928571429
+
+(60-67 ARASI VERİLER) **** 4. derece yaklaştırma katsayıları ****
+a0=137776.28571422736 | a1=2232.039682631061 | a2=-293.37500004346145 | a3=59.80555556351305 | a4=-4.208333333826129 | 
+r değeri = 0.999997867366622
+
+61.GÜN | Gerçek veri: 139771.0 , Yaklaşım verisi : 139770.547619045
+62.GÜN | Gerçek veri: 141475.0 , Yaklaşım verisi : 141477.976190483
+63.GÜN | Gerçek veri: 143114.0 , Yaklaşım verisi : 143105.904761904
+64.GÜN | Gerçek veri: 144749.0 , Yaklaşım verisi : 144760.666666662
+65.GÜN | Gerçek veri: 146457.0 , Yaklaşım verisi : 146447.595238094
+66.GÜN | Gerçek veri: 148067.0 , Yaklaşım verisi : 148071.023809529
+67.GÜN | Gerçek veri: 149435.0 , Yaklaşım verisi : 149434.285714284
+
+(60-67 ARASI VERİLER) **** 5. derece yaklaştırma katsayıları ****
+a0=137759.0000000997 | a1=2266.183333128769 | a2=-316.29166652427597 | a3=66.60416662314574 | a4=-5.1249999939926205 | a5=0.045833333027386104 | 
+r değeri = 0.999997877092572
+
+61.GÜN | Gerçek veri: 139771.0 , Yaklaşım verisi : 139770.416666666
+62.GÜN | Gerçek veri: 141475.0 , Yaklaşım verisi : 141478.499999998
+63.GÜN | Gerçek veri: 143114.0 , Yaklaşım verisi : 143105.250000005
+64.GÜN | Gerçek veri: 144749.0 , Yaklaşım verisi : 144760.666666666
+65.GÜN | Gerçek veri: 146457.0 , Yaklaşım verisi : 146448.249999995
+66.GÜN | Gerçek veri: 148067.0 , Yaklaşım verisi : 148070.500000004
+67.GÜN | Gerçek veri: 149435.0 , Yaklaşım verisi : 149434.416666666
+
+(60-67 ARASI VERİLER) **** 6. derece yaklaştırma katsayıları ****
+a0=138760.00018301743 | a1=-43.350420308506806 | a2=1640.5781319167963 | a3=-733.729310677046 | a4=164.67364149921724 | a5=-17.92083653298777 | a6=0.7486112438509811 | 
+r değeri = 1.00000000000000
+
+61.GÜN | Gerçek veri: 139771.0 , Yaklaşım verisi : 139771.000000159
+62.GÜN | Gerçek veri: 141475.0 , Yaklaşım verisi : 141474.999999190
+63.GÜN | Gerçek veri: 143114.0 , Yaklaşım verisi : 143114.000001751
+64.GÜN | Gerçek veri: 144749.0 , Yaklaşım verisi : 144748.999997955
+65.GÜN | Gerçek veri: 146457.0 , Yaklaşım verisi : 146457.000001360
+66.GÜN | Gerçek veri: 148067.0 , Yaklaşım verisi : 148066.999999513
+67.GÜN | Gerçek veri: 149435.0 , Yaklaşım verisi : 149435.000000073
+En uygun polinom 1.00000000000000 r değeri ile 6. derece polinom.
+
